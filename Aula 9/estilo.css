@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+p{
+	text-align: justify;
+	text-indent: 50px;
+}
+
+img{
+	height: 300px;
+	text-align: center;
+
+}
+
+h1{
+	text-align: center;
+	color: black;
+	font-family: Calibre;
+	font-size: 40px;
+}
+
+h2{
+	text-align: center;
+	color: black;
+	font-family: arial;
+}
+
+h3{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 22px;
+}
+
